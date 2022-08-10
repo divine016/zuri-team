@@ -1,2 +1,2 @@
-# zuri-team
-for task given on the zurix14G Internship.
+# zuri-dev
+everything i have learnt on the zuri internship and many more.
